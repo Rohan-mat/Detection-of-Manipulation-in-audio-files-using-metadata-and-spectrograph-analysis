@@ -1,0 +1,2 @@
+# Detection-of-Manipulation-in-audio-files-using-metadata-and-spectrograph-analysis
+In today’s fast-evolving landscape of digital technology, powerful tools have emerged that enable detailed editing and enhancement of audio content. Digital Audio Workstations (DAWs) such as Reaper and Audacity provide precise, fine-grained control—allowing users to cut, copy, paste, and rearrange audio segments effortlessly.
